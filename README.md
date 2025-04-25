@@ -71,31 +71,31 @@ total_sale	FLOAT	Total transaction sale
 
 🔍 Key Business Questions Answered
 
-Total number of sales?
+**Total number of sales?
 
-Number of unique customers?
+**Number of unique customers?
 
-List of all categories sold?
+**List of all categories sold?
 
-Transactions on a specific date (2022-11-05)?
+**Transactions on a specific date (2022-11-05)?
 
-Clothing sales with quantity > 4 in Nov-2022?
+**Clothing sales with quantity > 4 in Nov-2022?
 
-Total sales by category?
+**Total sales by category?
 
-Average age of Beauty category buyers?
+**Average age of Beauty category buyers?
 
-Transactions where total_sale > 1000?
+**Transactions where total_sale > 1000?
 
-Total transactions by gender and category?
+**Total transactions by gender and category?
 
-Best-selling month per year?
+**Best-selling month per year?
 
-Top 5 customers by total sale?
+**Top 5 customers by total sale?
 
-Unique customers per category?
+**Unique customers per category?
 
-Shift-wise orders (Morning, Afternoon, Evening)?
+**Shift-wise orders (Morning, Afternoon, Evening)?
 
 📌 Getting Started
 Install PostgreSQL and pgAdmin
