@@ -1,4 +1,6 @@
 🛍️ Retail Sales Analysis SQL Project
+
+
 A data-driven analysis project aimed at uncovering key insights and business trends from a retail sales dataset using SQL. This project demonstrates skills in data cleaning, transformation, and analysis to answer key business questions related to sales performance, customer behavior, and category trends.
 
 📊 Project Overview
